@@ -22,7 +22,8 @@ table{
 
 td{
     background-color: rgb(46, 199, 179);
-    color: black;
+    color: rgb(0, 0, 0);
     font-weight: bold;
     padding: 5px;
+    
 }
