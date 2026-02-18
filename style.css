@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+}
+table{
+    justify-self: center;
+    border: 5px solid rgb(37, 3, 3);
+    background-color: antiquewhite;
+}
+#configuration_container{
+    border: 5px solid black;
+    border-radius: 15% 5% 15% 5%;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+}
+#configuration_container *{
+    margin-top: 20px;
+}
+#container{
+    padding: 50px;
+}
+
+td{
+    background-color: rgb(46, 199, 179);
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+}
